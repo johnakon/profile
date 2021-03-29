@@ -27,7 +27,7 @@ const AboutMe = () => {
                         <div class="container">
                             <h4> EXPERTISE 💻 </h4>
 
-                            <p>Fullstack software developer with primary focus on MongoDB + React</p>
+                            <p>Fullstack software developer with primary focus on the MERN stack</p>
 
                             <div id="skills">
                                 <ul>
