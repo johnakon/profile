@@ -14,7 +14,7 @@ const AboutMe = () => {
                             <p>I am a diligent software developer and tech-enthusiast.</p>
 
                             <p>I love learning new technologies. I am actively looking for a software development  role to work with a great team & projects that interest me.<br /><br />This is my
-					        <a target="_blank" href="resume.pdf" rel="noreferrer"> Resume</a></p>
+					        <a target="_blank" href="https://drive.google.com/file/d/19Yy6k4KWMxnito_sQqcOMaU9wxg3AZSp/view?usp=sharing" rel="noreferrer"> Resume</a></p>
 
                             <hr />
                             <div class="container">
