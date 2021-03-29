@@ -37,15 +37,15 @@ const AboutMe = () => {
                                     <li>React</li>
                                     <li>Nodejs</li>
                                     <li>Heroku</li>
-                                    {/* <li>Git</li> */}
+                                    <li>Git</li>
                                 </ul>
 
                                 <ul>
-                                    <li>Git</li>
+                                    <li>Webflow</li>
                                     <li>MySQL</li>
                                     <li>PostgreSQL</li>
-                                    {/* <li>Python</li>
-                                    <li>Django</li> */}
+                                    <li>Python</li>
+                                    {/* <li>Django</li>  */}
                                     <li>HTML/CSS</li>
                                     <li>Debugging</li>
                                     <li>Testing (jest)</li>
