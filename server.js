@@ -3,9 +3,9 @@ const path = require('path')
 
 const app = express()
 
-app.get('/', (req, res) => {
-    res.send('I am a full stack dev')
-})
+// app.get('/', (req, res) => {
+//     res.send('I am a full stack dev')
+// })
 
 //serve static assets if in production
 if(process.env.NODE_ENV === 'production'){
